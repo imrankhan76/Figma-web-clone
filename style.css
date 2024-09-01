@@ -1,0 +1,142 @@
+
+.Login {
+    border: 1px solid black;
+    color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 10px;
+   
+    color: black;
+  }
+ .navbar{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+ }
+  /* landscape css */
+
+  .landscape{
+  
+    padding: 100px 0px 100px 0px;
+    width: fit-content;
+    gap: 100px;
+  }
+  .landscape-content{
+    
+ 
+  padding:auto;
+  }
+  .landscape-content h1{
+    word-spacing: 10px;
+    font-size: 50px;
+  }
+  .landscape-content button{
+    padding: 13px 50px;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+
+  
+  /* services css */
+  .services{
+    margin-top: 100px;
+  }
+  .services h2{
+    font-weight: 400;
+    background-color: #B9FF66;
+    border-radius: 10px;
+    margin: 0px 40px;
+    padding: 5px;
+    height: fit-content;
+  }
+  .services p{
+    font-size: 20px;
+    margin: 50px 0px;
+  }
+    /* services-card css */
+    
+    .card-service{
+        background-color: #F3F3F3;
+        border:10px solid black;
+        border-radius: 50px;
+        width: 30rem;
+        height: 19rem;
+        border: solid #000;
+        border-width: 1px 1px 10px;
+        border-radius: 2rem;
+        align-items: center;
+        margin: 50px;
+    }
+    .card-service{
+        background-color: #B9FF66;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .cd{
+        background-color: #B9FF66;
+    }
+    .card-content{
+        width: 50%;
+    }
+    .card-content a{
+        text-decoration: none;
+        color: black;
+    }
+    .our-working-proces h2{
+        background-color: #B9FF66;
+        border-radius: 7px;
+        padding: 5px;
+        margin: 50px 50px;
+    }
+    .our-working-proces p{
+        font-size: 20px;
+    }
+    /* dropdwon css */
+    .accordion-item, .accordion-button ,.accordion-collapse ,.accordion-header{
+        background-color: #B9FF66;
+    }
+    .accordion-item {
+        border-radius: 20px !important;
+       
+       }
+    .accordion-header p{
+        font-size: 20px;
+        margin-top: 10px;
+
+    }
+    .accordion-item-2
+    {
+        border-radius: 20px !important;
+        margin-top: 10px;
+        background-color: #F3F3F3;
+        border:2px solid black;
+        padding: 20px;
+    }
+    .accordion-header-2 p{
+        font-size: 20px;
+        margin-top: 20px;
+       
+   
+ 
+    }
+    .colored-text{
+
+        background-color: #B9FF66;
+        border-radius: 20px;
+        padding: 10px;
+       
+    }
+    
+    .other{
+        margin-left: 15%;
+        margin-top: 50px;
+        gap:20px;
+    }
+    .contact__form{
+        background-color: #F3F3F3;
+        justify-content: center;
+
+        flex-direction: column;
+    }
+  
